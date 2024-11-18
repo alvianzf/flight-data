@@ -8,6 +8,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.x-blue.svg)](https://www.postgresql.org/)
 [![pip](https://img.shields.io/badge/pip-21.x-blue.svg)](https://pip.pypa.io/)
 
+
 **Overview**
 
 This project is designed to process and integrate flight data using Flask and Apache Spark. It involves loading JSON files containing flight data, cleaning and transforming the data, analyzing delayed flights, and storing the processed data in a Flask-SQLAlchemy database. The project also includes an API endpoint to retrieve flight data.
